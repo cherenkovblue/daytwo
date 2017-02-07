@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cherenkovblue/daytwo#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "path": "^0.12.7"
   }
 }
